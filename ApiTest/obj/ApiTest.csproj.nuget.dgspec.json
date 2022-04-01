@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\test\\ApiTest\\ApiTest\\ApiTest.csproj": {}
+    "D:\\test\\ApiTest\\ApiTest\\ApiTest.csproj": {}
   },
   "projects": {
-    "d:\\test\\ApiTest\\ApiTest\\ApiTest.csproj": {
+    "D:\\test\\ApiTest\\ApiTest\\ApiTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\test\\ApiTest\\ApiTest\\ApiTest.csproj",
+        "projectUniqueName": "D:\\test\\ApiTest\\ApiTest\\ApiTest.csproj",
         "projectName": "ApiTest",
-        "projectPath": "d:\\test\\ApiTest\\ApiTest\\ApiTest.csproj",
+        "projectPath": "D:\\test\\ApiTest\\ApiTest\\ApiTest.csproj",
         "packagesPath": "C:\\Users\\peAce\\.nuget\\packages\\",
-        "outputPath": "d:\\test\\ApiTest\\ApiTest\\obj\\",
+        "outputPath": "D:\\test\\ApiTest\\ApiTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\peAce\\AppData\\Roaming\\NuGet\\NuGet.Config",

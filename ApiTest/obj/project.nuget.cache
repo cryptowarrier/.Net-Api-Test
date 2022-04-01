@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6BmraJ0iL7DqY3Bq4+yhJ0z1dzBUM1w6/TDvuTx7lyYE17D9LFMv6QnyL217nqTC4AIKXBIiuuYq3UHdm1f+lQ==",
+  "dgSpecHash": "7qk/mwz7lorj7O8C6/LeEYWtX1szOg4cKInoB4xF1RFLpalRysjh9J3yQm5z3L8JWxL9Nfry0ycwWRQFcsP3kA==",
   "success": true,
-  "projectFilePath": "d:\\test\\ApiTest\\ApiTest\\ApiTest.csproj",
+  "projectFilePath": "D:\\test\\ApiTest\\ApiTest\\ApiTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\peAce\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\peAce\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
